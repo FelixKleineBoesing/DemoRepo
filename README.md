@@ -1,2 +1,2 @@
 # DemoRepo
-Demo repo
+Demo repo for TechLabs Track "GitHub Onboarding"
